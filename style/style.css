@@ -1,0 +1,44 @@
+body {
+  background-color: #F1F1F1;
+}
+
+.container {
+  margin: 0 0 0 0;
+  padding: 0 0 0 0;
+  max-width: 100%;
+}
+
+.header {
+  text-align: center;
+  background: #FFFFFF;
+}
+
+.loading {
+  text-align: center;
+  font-size: 50px;
+  margin-top: 10%;
+}
+
+.search-bar {
+  margin: 20px;
+  text-align: center;
+}
+
+.search-bar input {
+  width: 75%;
+}
+
+.video-detail .details {
+  margin-top: 10px;
+  padding: 10px;
+}
+
+.list-group-item {
+  cursor: pointer;
+  padding: 20px 20px 20px 20px;
+  border: none;
+}
+
+.list-group-item:hover .media-header {
+  color: #437AC6;
+}
